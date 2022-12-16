@@ -255,6 +255,10 @@ div.title::after {
     .header .header-wrapper .main-info .name {
         font-size: 32px;
     }
+
+    .header .header-wrapper .main-info .about_me h3 {
+        margin-top: 15px;
+    }
 }
 
 
@@ -270,6 +274,10 @@ div.title::after {
 
     .header .header-wrapper .main-info .name {
         font-size: 38px;
+    }
+
+    .header .header-wrapper .main-info .about_me h3 {
+        margin-top: 15px;
     }
 
     .header .header-wrapper .photo {
@@ -303,7 +311,4 @@ div.title::after {
         order: 2;
     }
 
-    .header .header-wrapper .main-info .about_me h3 {
-        margin-top: 15px;
-    }
 }
