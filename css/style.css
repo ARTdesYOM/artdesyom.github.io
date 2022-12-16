@@ -302,4 +302,8 @@ div.title::after {
     .main .main-wrapper .left {
         order: 2;
     }
+
+    .header .header-wrapper .main-info .about_me h3 {
+        margin-top: 10px;
+    }
 }
