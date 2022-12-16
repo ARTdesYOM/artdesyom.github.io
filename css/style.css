@@ -312,3 +312,9 @@ div.title::after {
     }
 
 }
+
+@media only screen and (max-width: 390) {
+    .header .header-wrapper .main-info .name {
+        font-size: 26px;
+    }
+}
